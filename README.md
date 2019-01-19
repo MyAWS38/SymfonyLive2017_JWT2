@@ -1,0 +1,2 @@
+# SymfonyLive2017_JWT2
+AbstractGuardAuthenticator
